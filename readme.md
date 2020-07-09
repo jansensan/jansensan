@@ -17,7 +17,7 @@ My portrait has been drawn by [Jimmy Suzan](https://www.jimmysuzan.com/), great 
 
 I created *Arts et Médias* as a hub for content and resources about contemporary art, with a bias towards media art and installation art.
 
-- [See Arts et Médias](https://arts-et-medias.net/)
+- [See _Arts et Médias_](https://arts-et-medias.net/)
 
 
 ## Media Art and Electronics
