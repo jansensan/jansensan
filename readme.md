@@ -1,23 +1,25 @@
 # Hello World
 
-I am a technologist and an artisan based in Montréal (CA).
+I am a User Experience Designer and Media Art Practicioner based in Montréal, CA.
 
-I am the editor at [_Arts et Médias_](https://arts-et-medias.net), a freelance user experience engineer and interaction designer, and a hopeful media/kinetic/sound art practitioner.
+I have been working in the field of digital production for more than fifteen years, and I have always advocated user-centred design. I favour projects which implement accessibility and take user privacy into account.
 
-Do no hesitate to contact me if you wish to collaborate:
+Clients with whom I work range from marketing agencies to game dev shops, from tech startups to research labs.
 
- - [Write me an email](mailto:mat.jb@jansensan.net)
- - [Follow me on Twitter](https://twitter.com/jansensan)
- - [Connect with me on LinkedIn](https://www.linkedin.com/in/jansensan/en)
+I am available for contractual hire. Do no hesitate to contact me:
 
-My portrait has been drawn by [Jimmy Suzan](https://www.jimmysuzan.com/), great illustrator and designer, and all-around good person.
+- ✉️ [Write me an email](mailto:mat.jb@jansensan.net)
+- 🐦 [Follow me on Twitter](https://twitter.com/jansensan)
+- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/jansensan/en)
+
+My portrait has been drawn by [Jimmy Suzan](https://www.jimmysuzan.com/), great illustrator, designer, and all-around good person.
 
 
 ## Arts et Médias
 
-I created *Arts et Médias* as a hub for content and resources about contemporary art, with a bias towards media art and installation art.
+I am the editor at [_Arts et Médias_](https://arts-et-medias.net) which is a hub for critical content and resources about contemporary art, with a bias towards media art and installation art.
 
-- [See _Arts et Médias_](https://arts-et-medias.net/)
+[Go to _Arts et Médias_](https://arts-et-medias.net/).
 
 
 ## Media Art and Electronics
@@ -26,18 +28,31 @@ I leverage my technical skills to create visual and sonic works, installations, 
 
 Repurposing musical instrument components allows me to benefit from their discrete function, and opens up opportunities to create visual arts or sound art, acoustic or amplified.
 
-- [See my creative work](https://art.jansensan.net/)
+[See my creative work](https://art.jansensan.net/).
 
 
 ## User Experience Design
 
-My focus is to advise clients to implement user-centered experiences, rather than simply pushing for the latest tech buzzword. I prefer to work upstream in the creation process: analyze the client’s need, and then collaborate with different teams and stakeholders to create the experience. I ensure to consider all stakeholders from design to production.
+Since my skill set overlaps many fields, I ensure to discuss with stakeholders during the creation of a project. I work upstream in the creation process, and then I collaborate with colleagues and stakeholders to design a solution.
 
-Clients with whom I work range from marketing agencies to game dev shops, from tech startups to research labs.
+My current service offer revolves mostly around these items:
 
-- [See my professional work](https://ux.jansensan.net/)
+- Usability and accessibility (A11Y) reviews of digital products and experiences.
+- Interview users and stakeholders to gather qualitative data.
+- UX documentation and artefacts (sketches, wireframes, storyboards, and prototypes).
+- UX writing (user stories, personas, requirements).
+- Interaction design (experimental, functional, creative, artistic).
+
+What to know more? [Contact me](mailto:mat.jb@jansensan.net) or [see my UX portfolio](https://ux.jansensan.net/).
 
 
 ## Interaction Design and Interface Development
 
-You are already viewing my profile here on GitHub, so you know I am able to code as well.
+While prefer working with creative technologies (e.g. Max, Processing, Arduino, Raspberry Pi, and electronics), most recent projects onto which I worked were mostly built with JavaScript and other web technologies (e.g. React, Angular, Phaser, Node, D3).
+
+- Upgrade and production of accessibility-oriented and user-centred interfaces.
+- Development of interfaces (front-end) with web technologies ;
+
+What to know more? [Contact me](mailto:mat.jb@jansensan.net) or [see my UI portfolio](https://ui.jansensan.net/).
+
+⚠️ You are already viewing my profile here on GitHub, so you know I am able to code as well. I will not participate in code challenges, whiteboarding, or any test of that nature.
