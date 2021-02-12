@@ -1,6 +1,6 @@
 # Hello World
 
-I am a User Experience Designer and Media Art Practicioner based in Montréal, CA.
+I am a User Experience Designer and Media Art Practitioner based in Montréal, CA.
 
 I have been working in the field of digital production for more than fifteen years, and I have always advocated user-centred design. I favour projects which implement accessibility and take user privacy into account.
 
