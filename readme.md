@@ -56,11 +56,3 @@ While prefer working with creative technologies (e.g. Max, Processing, Arduino, 
 What to know more? [Contact me](mailto:mat.jb@jansensan.net) or [see my UI portfolio](https://ui.jansensan.net/).
 
 ⚠️ You are already viewing my profile here on GitHub, so you know I am able to code as well. I will not participate in code challenges, whiteboarding, or any test of that nature.
-
-
-## Timelines
-
-<iframe
-  src="https://timelines.jansensan.net/timelines.html"
-  scrolling="no"
-></iframe>
