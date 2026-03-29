@@ -8,8 +8,7 @@ Clients with whom I work range from marketing agencies to game dev shops, from t
 
 I am available for contractual hire. Do no hesitate to contact me:
 
-- ✉️ [Write me an email](mailto:mat.jb@jansensan.net)
-- 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/jansensan/en)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jansensan/en)
 
 ---
 
@@ -21,7 +20,7 @@ My unique skill set allows me to bridge the gap between stakeholders, ensuring e
 
 I am a pragmatic Designer: I prioritize designs and solutions that actually answer users' needs instead of vanity metrics.
 
-What to know more? [Contact me](mailto:mat.jb@jansensan.net) or [see my UX portfolio](https://mat.jansonblanchet.com/ux/).
+[See my UX portfolio](https://mat.jansonblanchet.com/ux/).
 
 ---
 
