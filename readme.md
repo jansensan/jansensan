@@ -20,7 +20,7 @@ My unique skill set allows me to bridge the gap between stakeholders, ensuring e
 
 I am a pragmatic Designer: I prioritize designs and solutions that actually answer users' needs instead of vanity metrics.
 
-[See my UX portfolio](https://mat.jansonblanchet.com/ux/).
+[See my UX portfolio](https://mat.jansonblanchet.com/ux/)
 
 ---
 
@@ -30,7 +30,7 @@ I leverage my technical skills to create visual and sonic works, installations, 
 
 Repurposing musical instrument components allows me to benefit from their discrete function, and opens up opportunities to create visual arts or sound art, acoustic or amplified.
 
-[See my creative work](https://mat.jansonblanchet.com/art/).
+[See my creative work](https://mat.jansonblanchet.com/art/)
 
 ---
 
@@ -40,6 +40,6 @@ While prefer working with creative technologies (e.g. Max, Processing, Arduino, 
 
 These days I concentrate in spending more time working on User Experience work and my Media Art projects. I no longer offer my services as a programmer.
 
-[See my user interface development archives](https://mat.jansonblanchet.com/archives/ui/).
+[See my user interface development archives](https://mat.jansonblanchet.com/archives/ui/)
 
 ⚠️ You are already viewing my profile here on GitHub, so you know I am able to code as well. I will not participate in code challenges, whiteboarding, or any test of that nature.
